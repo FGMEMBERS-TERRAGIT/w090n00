@@ -1,4 +1,11 @@
+OBJECT_SHARED Models/Power/windturbine.xml -84.2031579 9.8984626 1602.6 0
+OBJECT_SHARED Models/Power/windturbine.xml -84.2023854 9.8980715 1600.2 0
+OBJECT_SHARED Models/Power/windturbine.xml -84.2001163 9.8957912 1611.13 0
+OBJECT_SHARED Models/Power/windturbine.xml -84.1995316 9.8947343 1629.91 0
+OBJECT_SHARED Models/Power/windturbine.xml -84.1990005 9.8935928 1644.31 0
+OBJECT_SHARED Models/Power/windturbine.xml -84.1984801 9.8924936 1648.75 0
 OBJECT_SHARED Models/Airport/ils.xml -84.218889 9.989139 897.41 291.89
 OBJECT_SHARED Models/Communications/vordme_1.xml -84.236111 9.983611 847.42 180
 OBJECT_SHARED Models/Communications/vordme_1.xml -84.218333 9.988333 902.36 180
 OBJECT_SHARED Models/Airport/localizer.xml -84.195264 9.999111 928.27 158.89
+OBJECT_SHARED Models/Industrial/Industrial100x90.ac -84.210956 9.997396 909.26 160
