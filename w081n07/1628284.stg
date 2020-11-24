@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Airport/ndb.ac -80.409955 7.983517 5.6 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/admin31x12.ac -80.40999 7.98142 0.00 170
+# END dsf2stg
